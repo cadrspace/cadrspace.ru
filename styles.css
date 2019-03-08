@@ -1,0 +1,93 @@
+/* Zenburn color theme is taken from
+   <https://en.wikipedia.org/wiki/Wikipedia:Zenburn> */
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+body {
+    background-color: #3f3f3f;
+    /* @embed */
+    background-image: url(images/page-base.png);
+    max-width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    text-align: justify;
+    font-family: monospace;
+}
+.lambda {
+    text-align: center;
+    font-size: 500%;
+    min-width: 100%;
+}
+.lambda a:link {
+    color: #2e3436;
+    text-decoration-line: none;
+}
+
+.links {
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dcdccc;
+}
+
+.status {
+    max-width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {color: #f0dfaf}
+a:visited {color: #e0cf9f}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #dcdccc;
+}
+
+/* Head */
+#mw-page-base {
+    height: 5em;
+    background-color: #3f3f3f;
+    /* @embed */
+    background-image: url(images/page-fade.png);
+    background-position: bottom left;
+    background-repeat: repeat-x;
+}
+div#content {
+    margin-left: 10em;
+    padding: 1em;
+    /* @embed */
+    background-image: url(images/border.png);
+    background-position: top left;
+    background-repeat: repeat-y;
+    background-color: #3f3f3f;
+    color: #dcdccc;
+    direction: ltr;
+}
+
+pre {
+    background: none repeat scroll 0 0 #3f3f3f;
+    border: 1pt dashed #dcdccc;
+    color: #dcdccc;
+    font-size: 8pt;
+    overflow: auto;
+    padding: 1em 0;
+    white-space: pre;
+}
+
+table.tmbox {
+    background: none repeat scroll 0 0 #dc8cc3;
+    border: 1px solid #C0C090;
+    border-collapse: collapse;
+    margin: 4px 10%;
+}
+
+table.diff {
+    background: none repeat scroll 0 0 #3f3f3f;
+}
