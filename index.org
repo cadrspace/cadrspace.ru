@@ -38,12 +38,12 @@
 
 #+BEGIN_CENTER
 @@html:<p class="links">@@
-[[https://cadrspace.ru/w/][wiki]] | [[https://t.me/cadr_hackerspace][telegram]] | [[https://vk.com/cadrspace][vk]] | [[https://www.youtube.com/channel/UC3VpKt2Iedwu_3hI5NYAKCg][youtube]] | [[https://github.com/cadrspace][github]]
+[[https://cadrspace.ru/w/][wiki]] — [[https://t.me/cadr_hackerspace][telegram]] — [[https://vk.com/cadrspace][vk]] — [[https://www.youtube.com/channel/UC3VpKt2Iedwu_3hI5NYAKCg][youtube]] — [[https://github.com/cadrspace][github]]
 @@html:</p>@@
 #+END_CENTER
 
 ** Как поддержать хакерспейс?
-- [[https://cadrspace.ru/w/index.php?title=CADR#.D0.9A.D0.B0.D0.BA_.D1.81.D1.82.D0.B0.D1.82.D1.8C_.D1.83.D1.87.D0.B0.D1.81.D1.82.D0.BD.D0.B8.D0.BA.D0.BE.D0.BC.3F][Станьте активным участником]] и помогайте сообществу развиваться!
+- [[https://cadrspace.ru/w/index.php?title=%D0%9A%D0%B0%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC%3F][Станьте активным участником]] и помогайте сообществу развиваться!
 - Возможно, у вас есть что-то из нашего [[https://cadrspace.ru/w/index.php?title=Wish-List][списка пожеланий]], что вы
   можете нам пожертвовать?
 - Вы также можете сделать пожертвование на наш счёт Yandex.Money:
