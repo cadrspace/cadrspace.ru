@@ -1,4 +1,5 @@
 #+TITLE:  Нижегородский хакерспейс CADR
+#+DATE:   {{{time(%Y-%m-%d %a %H:%M)}}}
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:
@@ -11,7 +12,6 @@
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-orange.min.css">
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" href="styles.css">
 #+HTML_HEAD_EXTRA: <link rel="shortcut icon" href="images/favicon.ico"/>
-#+DATE: {{{time(%Y-%m-%d %a %H:%M)}}}
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
 #+OPTIONS: date:t
@@ -24,7 +24,7 @@
 
 * Нижегородский хакерспейс CADR
 
-*CADR* -- это проект по созданию творческого пространства для
+*CADR* — это проект по созданию творческого пространства для
 реализации технических идей, исследований, обмена опытом, обучения и
 саморазвития, а также для простого человеческого общения на
 технические темы.  Наша основная цель — это развитие технического

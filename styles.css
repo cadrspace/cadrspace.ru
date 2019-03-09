@@ -19,15 +19,12 @@ p, ul {
 }
 .lambda {
     text-align: center;
-    font-size: 500%;
     min-width: 100%;
+    font-weight: bold;
+    text-decoration-line: none;
 }
 td {
     vertical-align: middle;
-}
-.lambda a:link {
-    color: #2e3436;
-    text-decoration-line: none;
 }
 
 .links {
@@ -38,10 +35,20 @@ td {
 }
 
 .status {
+    background-color: #dcdccc;
     color: #2e3436;
-    max-width:50%;
-    margin-left: auto;
-    margin-right: auto;
+    max-width:100%;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.status a:link {
+    color: #2e3436;
+}
+
+.status a:visited {
+    color: #2e3436;
 }
 
 a:link {color: #f0dfaf}
