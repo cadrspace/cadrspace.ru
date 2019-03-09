@@ -19,7 +19,9 @@
 #+OPTIONS: html-postamble:t
 
 #+BEGIN_CENTER
+@@html:<a href="https://cadrspace.ru/w/" target="_self">@@
 [[./images/cadr.png]]
+@@html:</a>@@
 #+END_CENTER
 
 * Нижегородский хакерспейс CADR
