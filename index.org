@@ -38,7 +38,7 @@
 
 #+BEGIN_CENTER
 @@html:<p class="links">@@
-[[https://cadrspace.ru/w/][wiki]] — [[https://t.me/cadr_hackerspace][telegram]] — [[https://vk.com/cadrspace][vk]] — [[https://www.youtube.com/channel/UC3VpKt2Iedwu_3hI5NYAKCg][youtube]] — [[https://github.com/cadrspace][github]]
+[[https://cadrspace.ru/w/][wiki]] —  [[https://matrix.to/#/!qjyJvPwAYWrOYMfCXV:matrix.org?via=matrix.org&via=ru-matrix.org][matrix]] — [[https://t.me/cadr_hackerspace][telegram]] — [[https://vk.com/cadrspace][vk]] — [[https://www.youtube.com/channel/UC3VpKt2Iedwu_3hI5NYAKCg][youtube]] — [[https://github.com/cadrspace][github]]
 @@html:</p>@@
 #+END_CENTER
 
