@@ -16,7 +16,6 @@
 #+OPTIONS: num:nil
 #+OPTIONS: date:t
 #+OPTIONS: title:nil
-#+OPTIONS: html-postamble:t
 
 #+BEGIN_CENTER
 @@html:<a href="https://cadrspace.ru/w/" target="_self">@@
